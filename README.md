@@ -1,2 +1,2 @@
-# pwnable.kr-ctf
-Solutions to the pwnable.kr CTF challenges
+# pwnable.kr-CTF
+Guided solutions to the [pwnable.kr](https://pwnable.kr/) CTF challenges
